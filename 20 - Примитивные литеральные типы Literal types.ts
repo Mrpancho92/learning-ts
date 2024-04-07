@@ -7,7 +7,7 @@
 // const port3001: number = 3001;
 
 // function startServer (
-//     protocol: "Http" | "Https",
+//     protocol: "http" | "https",
 //     port: 3000 | 3001
 // ): "Server started" {
 //     if (port === port3000 || port === port3001) {
@@ -18,7 +18,7 @@
 //     return "Server started";
 // }
 
-// startServer("Https", 3001);
+// startServer("https", 3001);
 
 // function createAnimation(
 //     id: string | number,
